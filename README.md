@@ -1,4 +1,3 @@
-# helloWorld
+# HelloWorld
 
-This is Chengda Xu, currently a Freshman who hope to major in computer science in university of washington.
-I usually use java or python. Now I am learning web programming.
+This is Chengda Xu, currently a Junior with experience on front-end development based on Vue.js and back-end based on Spring Boot.
